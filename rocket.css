@@ -1,0 +1,20 @@
+.sidebar{
+    width: 120px ;
+    height: 10vh;
+    border-radius: 5%;
+    text-align: center;
+}
+.sidebar :hover{
+    width: 500px;
+    height: 30vh;
+    /* transition: 20s;
+    animation: bounce infinite; */
+    animation: bounce 1s infinite alternate;
+}
+@keyframes bounce{
+    0%
+    {
+        transform: translateY(100px);
+    }}
+
+
