@@ -1,4 +1,4 @@
-# Hi, I'm [Harsh Mishra](https://harsh-mishra-portfolio.netlify.app/) ! 👋
+# Hi, I'm Harsh Mishra ! 👋
 
 
 ## 🚀 I'm a full-stack developer...
