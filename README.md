@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Rocket Site
-
+A dynamic and interactive simulation of a flying rocket, designed for enthusiasts, engineers, and students to explore rocket dynamics, physics, and flight trajectories.
 
 ## Average time to complete
 #### 5 hrs
@@ -27,7 +27,17 @@ https://dancing-cuchufli-267028.netlify.app/
 ## Screenshots
 ![alt text](./image.png)
 
-## Feedback
+## 🤝 Contributing
 
-If you have any feedback, please reach out to me at hm45676777776@gmail.com
+Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue for discussion.
+
+
+
+## 📫 Contact
+For any questions or feedback, reach out via:
+
+**Email:** hm45676777776@gmail.com
+
+**GitHub:** HarshMishra23
+
 
